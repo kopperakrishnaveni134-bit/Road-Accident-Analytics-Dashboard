@@ -190,6 +190,29 @@ http://127.0.0.1:5000
 ```
 
 ---
+## 📸 Screenshots
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+### Top 10 Road Accident States
+
+![Bar Chart](screenshots/barchart.png)
+
+---
+
+### India Accident Map
+
+![Map](screenshots/map.png)
+
+---
+
+### Accident Statistics
+
+![Statistics](screenshots/statistics.png)
 
 
 ## 🎯 Learning Outcomes
